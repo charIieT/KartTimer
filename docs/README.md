@@ -1,54 +1,64 @@
-# KartTimer Support Site
+# KartTimer
 
-This is the GitHub Pages support site for the KartTimer app.
+A professional lap timing app for kart racing enthusiasts. Track your performance, manage multiple drivers, and analyze your lap times with precision.
 
-## Setup Instructions
+## Features
 
-### If you haven't created a GitHub repository yet:
+- **Precision Lap Timing** – Record lap times with millisecond accuracy
+- **Multi-Driver Support** – Manage profiles for multiple drivers
+- **Session Organization** – Create named sessions to organize practice runs and races
+- **Weather Tracking** – Log weather conditions (dry, wet, greasy) for each session
+- **Performance Analytics** – View detailed lap records and session history
+- **Local Data Storage** – All data stays on your device for privacy
 
-1. **Create a new repository on GitHub**
-   - Go to https://github.com/new
-   - Name it: `KartTimer` (or your preferred name)
-   - Make it **Private**
-   - Click "Create repository"
+## Getting Started
 
-2. **Push your local code to GitHub** (keep repository private)
-   ```bash
-   cd /Users/charliet/Desktop/KartTimer
-   git remote add origin https://github.com/YOUR_USERNAME/KartTimer.git
-   git branch -M main
-   git push -u origin main
-   ```
-   Make sure to set the repository to **Private** in GitHub settings.
+### Installation
 
-### Enable GitHub Pages:
+KartTimer is available on the App Store. Download and install the app on your iPhone or iPad.
 
-1. Go to your repository on GitHub
-2. Click **Settings** (top right)
-3. Scroll down to **Pages** section (left sidebar)
-4. Under "Source", select:
-   - Branch: `main`
-   - Folder: `/docs`
-5. Click **Save**
+### Quick Start
 
-GitHub will display your site URL (usually `https://YOUR_USERNAME.github.io/KartTimer`)
+1. **Create a Driver Profile**
+   - Go to the Drivers tab
+   - Add your driver information and kart number
 
-### Update your App Store Support URL:
+2. **Start a Session**
+   - Tap "Home" tab
+   - Enter a session name
+   - Select your driver
+   - Choose weather conditions (Dry, Wet, or Greasy)
 
-Use the GitHub Pages URL generated above as your Support URL in App Store Connect.
+3. **Record Laps**
+   - Tap START to begin timing
+   - Tap LAP to record each lap time
+   - Tap STOP to end the session
 
-Example: `https://charliet.github.io/KartTimer`
+4. **Review Your Data**
+   - Go to the Logs tab to view all sessions
+   - Check the Multiple tab to compare multiple sessions
 
-## Customization
+## Requirements
 
-Edit `docs/index.html` to:
-- Change the email address (currently `support@karttimer.app`)
-- Update the GitHub link to your repository
-- Modify colors, text, or layout as needed
+- iOS 15.0 or later
+- iPhone or iPad
 
-## Support Email
+## Privacy
 
-You'll need to set up an email address for support inquiries. Options:
-- Use your personal email
-- Create a Gmail account specifically for support
-- Use a service like Mailgun or SendGrid for automated responses
+KartTimer respects your privacy. All data is stored locally on your device and is never transmitted to external servers or third parties.
+
+## Support
+
+For support inquiries, email: [maintenence.karttimer@gmail.com](mailto:maintenence.karttimer@gmail.com)
+
+We typically respond within 24-48 hours.
+
+## About
+
+KartTimer is designed for serious kart racers who want to track their performance and improve their lap times. Whether you're practicing at your local track or competing with friends, KartTimer provides the precision timing and data insights you need.
+
+---
+
+**Version:** 1.0  
+**Developer:** Charlie Taylor  
+**Last Updated:** December 2025
