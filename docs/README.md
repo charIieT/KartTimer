@@ -2,6 +2,13 @@
 
 A professional lap timing app for kart racing enthusiasts. Track your performance, manage multiple drivers, and analyze your lap times with precision.
 
+
+<img width="1206" height="2622" alt="IMG_2108" src="https://github.com/user-attachments/assets/d1427c95-2201-4641-bd37-3d0b23566ca1" />
+<img width="1206" height="2622" alt="IMG_2109" src="https://github.com/user-attachments/assets/b4160bec-4f47-4212-a464-7b2a54ffa078" />
+<img width="1206" height="2622" alt="IMG_2110" src="https://github.com/user-attachments/assets/54d10252-0839-4169-a80b-606dd7220ccf" />
+<img width="1206" height="2622" alt="IMG_2111" src="https://github.com/user-attachments/assets/b0e52334-9fb3-4fe7-8f55-414e2c4e667c" />
+<img width="1206" height="2622" alt="IMG_2112" src="https://github.com/user-attachments/assets/13d89288-8f28-4ef7-a2d3-324899c705e9" />
+
 ## Features
 
 - **Precision Lap Timing** – Record lap times with millisecond accuracy
